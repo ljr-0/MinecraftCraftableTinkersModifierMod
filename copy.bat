@@ -1,0 +1,1 @@
+copy "build/libs/modid-1.0.jar" run/mods

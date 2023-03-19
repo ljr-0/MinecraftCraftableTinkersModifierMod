@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: CraftableTinkersModifier
+Implementation-Version: 1.0
+Specification-Vendor: ctmodifiersareus
+Specification-Title: ctmodifier
+Implementation-Timestamp: 2023-03-19T19:31:59+0800
+Specification-Version: 1
+Implementation-Vendor: ctmodifiersareus
+
